@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>Hisorical places in India</title>
+    <link rel="stylesheet" href="Mini project.css">
+ 
+</head>
+<body>
+
+    <header id="header" text align="center">
+        <h1>Historical places in India</h1>
+    </header>
+
+    <div class="image-container">
+        
+        <div class="gallery">
+            <a href="https://en.wikipedia.org/wiki/Taj_Mahal" target="_blank">
+            <img src="Image 1.jpg ">
+            </a>
+                <div class="desc">TAJ MAHAL</div>
+        </div>
+
+        <div class="gallery">
+            <a href="https://en.wikipedia.org/wiki/Darjeeling_Himalayan_Railway" target="_blank">
+            <img src="Image 2.jpg">
+            </a>
+                <div class="desc"> DARGEELING HIMALAYAN RAILWAY</div>
+        </div>
+
+        <div class="gallery">
+            <a href="https://en.wikipedia.org/wiki/Red_Fort" target="_blank">
+            <img src="Image 3.jpg">
+            </a>
+                <div class="desc">RED FORT</div>
+        </div>
+
+        <div class="gallery">
+            <a href="https://en.wikipedia.org/wiki/Mysore_Palace" target="_blank">
+            <img src="Image 4.jpg">
+            </a>
+                <div class="desc">MYSORE PALACE</div>
+        </div>
+
+        <div class="gallery">
+            <a href="https://en.wikipedia.org/wiki/Amber_Fort" target="_blank">
+            <img src="Image 5.jpg">
+            </a>
+                <div class="desc">AMBER FORT JAIPUR</div>
+        </div>
+
+        <div class="gallery">
+            <a href="https://en.wikipedia.org/wiki/Jaipur" target="_blank">
+            <img src="Image 6.jpg">
+            </a>
+                <div class="desc">RED CONCRETE BUILDING JAIPUR</div>
+        </div>
+
+        <div class="gallery">
+            <a href="https://en.wikipedia.org/wiki/Agra_Fort" target="_blank">
+            <img src="Image 7.jpg">
+            </a>
+                <div class="desc">AGRA FORT</div>
+        </div>
+
+        <div class="gallery">
+            <a href="https://en.wikipedia.org/wiki/Royal_Albert_Hall" target="_blank">
+            <img src="Image 8.jpg">
+            </a>
+                <div class="desc">ALBERT HALL</div>
+        </div>
+
+        <div class="gallery">
+            <a href="https://en.wikipedia.org/wiki/Devi_Kanya_Kumari" target="_blank">
+            <img src="Image 9.jpg">
+            </a>
+                <div class="desc">DEVI TEMPLE KANYAKUMARI</div>
+        </div>
+
+    </div>
+    <footer>
+        <h2 id="id1">Thank You</h2>
+        <h3 id="id2"> Developed and Designed by </h3>
+        <h2 id="id3"> Karan S</h2>
+    </footer>
+    
+</body>
+</html> 
